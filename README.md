@@ -1,16 +1,15 @@
-### Hi there 👋
+### 👋 Hi there, I'm Mike (a.k.a. Peruvian Idol 🇵🇪)
 
-<!--
-**peruvianidol/peruvianidol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Provi](https://provi.com)'s design system and CSS framework
+- 🌱 I’m currently learning JAMstack stuff
+- 👯 I’m looking to collaborate on interesting projects
+- 🤔 I’m looking for help with setting up CI stuff, npm package for our design system
+- 💬 Ask me about CSS, design systems, movies, TV, video games
+- ⚡ Fun fact: I'm a graduate of Second City's conservatory and writing program
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: 
+  - [Website](https://mikeaparicio.com)
+  - [Twitter](https://twitter.com/peruvianidol)
+  - [Instagram](https://instagram.com/peruvianidol)
+  - [CodePen](https://codepen.io/peruvianidol)
+  - [Letterboxd](https://letterboxd.io/peruvianidol)
