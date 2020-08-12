@@ -7,7 +7,7 @@
 - 💬 Ask me about CSS, design systems, movies, TV, video games
 - ⚡ Fun fact: I'm a graduate of Second City's conservatory and writing program
 
-- 📫 How to reach me: 
+- 📫 How to reach me:
   - [Website](https://mikeaparicio.com)
   - [Twitter](https://twitter.com/peruvianidol)
   - [Instagram](https://instagram.com/peruvianidol)
