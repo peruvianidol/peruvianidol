@@ -12,4 +12,4 @@
   - [Twitter](https://twitter.com/peruvianidol)
   - [Instagram](https://instagram.com/peruvianidol)
   - [CodePen](https://codepen.io/peruvianidol)
-  - [Letterboxd](https://letterboxd.io/peruvianidol)
+  - [Letterboxd](https://letterboxd.com/peruvianidol)
