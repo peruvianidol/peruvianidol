@@ -6,13 +6,7 @@
 - 🤔 I’m looking for help with setting up CI stuff, npm package for our design system
 - 💬 Ask me about CSS, design systems, movies, TV, video games
 - ⚡ Fun fact: I'm a graduate of Second City's conservatory and writing program
-
-- 📫 How to reach me:
-  - [Website](https://mikeaparicio.com)
-  - [Twitter](https://twitter.com/peruvianidol)
-  - [Instagram](https://instagram.com/peruvianidol)
-  - [CodePen](https://codepen.io/peruvianidol)
-  - [Letterboxd](https://letterboxd.com/peruvianidol)
+- 📫 How to reach me: [Website](https://mikeaparicio.com) / [Twitter](https://twitter.com/peruvianidol) / [Instagram](https://instagram.com/peruvianidol) / [CodePen](https://codepen.io/peruvianidol) / [Letterboxd](https://letterboxd.com/peruvianidol)
 
 ### 🚨 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
