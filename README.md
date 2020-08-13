@@ -13,3 +13,7 @@
   - [Instagram](https://instagram.com/peruvianidol)
   - [CodePen](https://codepen.io/peruvianidol)
   - [Letterboxd](https://letterboxd.com/peruvianidol)
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
