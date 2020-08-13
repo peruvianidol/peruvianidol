@@ -14,6 +14,6 @@
   - [CodePen](https://codepen.io/peruvianidol)
   - [Letterboxd](https://letterboxd.com/peruvianidol)
 
-# Blog posts
+### 🚨 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
