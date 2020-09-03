@@ -10,9 +10,9 @@
 
 ### 🚨 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- [AI Mike](https://mikeaparicio.com/posts/2020-09-02-ai-mike/)
 - [Goodbye, Groupon](https://mikeaparicio.com/posts/2020-07-23-goodbye-groupon/)
 - [Simple Groupon](https://mikeaparicio.com/posts/2020-07-06-simple-groupon/)
 - [Why I Love Animal Crossing](https://mikeaparicio.com/posts/2020-05-04-why-i-love-animal-crossing/)
 - [Quarantine Diary 1](https://mikeaparicio.com/posts/2020-04-13-quarantine-diary-1/)
+- [My Year of Film](https://mikeaparicio.com/posts/2020-01-31-my-year-of-film/)
 <!-- BLOG-POST-LIST:END -->
