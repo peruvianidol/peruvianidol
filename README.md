@@ -10,9 +10,9 @@
 
 ### 🚨 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why I Love Modern Warfare (Again)](https://mikeaparicio.com/posts/2020-10-22-why-i-love-modern-warfare-again/)
 - [Extra Life 2020](https://mikeaparicio.com/posts/2020-10-14-extra-life-2020/)
 - [Goodbye, Groupon](https://mikeaparicio.com/posts/2020-07-23-goodbye-groupon/)
 - [Simple Groupon](https://mikeaparicio.com/posts/2020-07-06-simple-groupon/)
 - [Why I Love Animal Crossing](https://mikeaparicio.com/posts/2020-05-04-why-i-love-animal-crossing/)
-- [Quarantine Diary 1](https://mikeaparicio.com/posts/2020-04-13-quarantine-diary-1/)
 <!-- BLOG-POST-LIST:END -->
