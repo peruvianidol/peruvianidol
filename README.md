@@ -1,7 +1,8 @@
 ### 👋 Hi there, I'm Mike (a.k.a. Peruvian Idol 🇵🇪)
 
 - 🔭 I’m currently working on [Provi](https://provi.com)'s design system and CSS framework
-- 🌱 I’m currently learning JAMstack stuff
+- 🔨 I built [11ty Recipes](https://11ty.recipes), [Dogs of Dev](https://dogsof.dev), and [Cool CSS](https://coolcss.dev)
+- 🌱 I’m currently learning JAMstack stuff and trying to get better at Illustrator
 - 👯 I’m looking to collaborate on interesting projects
 - 🤔 I’m looking for help with setting up CI stuff, npm package for our design system
 - 💬 Ask me about CSS, design systems, movies, TV, video games
