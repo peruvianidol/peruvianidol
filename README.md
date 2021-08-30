@@ -11,9 +11,9 @@
 
 ### 🚨 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Adding Algolia search to an Eleventy site with Netlify](https://mikeaparicio.com/posts/2021-08-29-adding-algolia-search-to-an-eleventy-site-with-netlify/)
 - [Variants](https://mikeaparicio.com/posts/2021-07-25-variants/)
 - [Extreme Makeover Homepage Edition](https://mikeaparicio.com/posts/2021-04-06-extreme-makeover-homepage-edition/)
 - [Cool CSS](https://mikeaparicio.com/posts/2021-03-25-cool-css/)
 - [2020](https://mikeaparicio.com/posts/2021-01-01-2020/)
-- [Why I Love Modern Warfare (Again)](https://mikeaparicio.com/posts/2020-10-22-why-i-love-modern-warfare-again/)
 <!-- BLOG-POST-LIST:END -->
