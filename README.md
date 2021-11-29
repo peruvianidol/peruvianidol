@@ -11,9 +11,9 @@
 
 ### 🚨 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My Movie a Year Challenge](https://mikeaparicio.com/posts/2021-11-29-my-movie-a-year-challenge/)
 - [It&#39;s Your Website](https://mikeaparicio.com/posts/2021-11-24-its-your-website/)
 - [Adding Algolia search to an Eleventy site with Netlify](https://mikeaparicio.com/posts/2021-08-29-adding-algolia-search-to-an-eleventy-site-with-netlify/)
 - [Variants](https://mikeaparicio.com/posts/2021-07-25-variants/)
 - [Extreme Makeover Homepage Edition](https://mikeaparicio.com/posts/2021-04-06-extreme-makeover-homepage-edition/)
-- [Cool CSS](https://mikeaparicio.com/posts/2021-03-25-cool-css/)
 <!-- BLOG-POST-LIST:END -->
