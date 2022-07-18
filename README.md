@@ -11,9 +11,9 @@
 
 ### 🚨 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Owen](https://mikeaparicio.com/posts/2022-06-08-owen/)
+- [Refactoring MikeAparicio.com](https://mikeaparicio.com/posts/2022-05-26-refactoring-mikeaparicio-com/)
 - [Tips for beating Sifu](https://mikeaparicio.com/posts/2022-02-21-tips-for-beating-sifu/)
 - [2021](https://mikeaparicio.com/posts/2022-01-01-2021/)
 - [Games as a Service are Ruining Gaming](https://mikeaparicio.com/posts/2021-12-21-games-as-a-service-are-ruining-gaming/)
-- [My Movie a Year Challenge](https://mikeaparicio.com/posts/2021-11-29-my-movie-a-year-challenge/)
-- [It&#39;s Your Website](https://mikeaparicio.com/posts/2021-11-24-its-your-website/)
 <!-- BLOG-POST-LIST:END -->
