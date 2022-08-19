@@ -11,9 +11,9 @@
 
 ### 🚨 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Nested navigation in Eleventy](https://mikeaparicio.com/posts/2022-08-19-nested-navigation-in-eleventy/)
 - [Owen](https://mikeaparicio.com/posts/2022-06-08-owen/)
 - [Refactoring MikeAparicio.com](https://mikeaparicio.com/posts/2022-05-26-refactoring-mikeaparicio-com/)
 - [Tips for beating Sifu](https://mikeaparicio.com/posts/2022-02-21-tips-for-beating-sifu/)
 - [2021](https://mikeaparicio.com/posts/2022-01-01-2021/)
-- [Games as a Service are Ruining Gaming](https://mikeaparicio.com/posts/2021-12-21-games-as-a-service-are-ruining-gaming/)
 <!-- BLOG-POST-LIST:END -->
