@@ -11,9 +11,9 @@
 
 ### 🚨 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2022](https://mikeaparicio.com/posts/2023-01-01-2022/)
 - [Design System Advice](https://mikeaparicio.com/posts/2022-12-12-design-system-advice/)
 - [Reframing Design Systems](https://mikeaparicio.com/posts/2022-11-26-reframing-design-systems/)
 - [Nested navigation in Eleventy](https://mikeaparicio.com/posts/2022-08-19-nested-navigation-in-eleventy/)
 - [Owen](https://mikeaparicio.com/posts/2022-06-08-owen/)
-- [Refactoring MikeAparicio.com](https://mikeaparicio.com/posts/2022-05-26-refactoring-mikeaparicio-com/)
 <!-- BLOG-POST-LIST:END -->
