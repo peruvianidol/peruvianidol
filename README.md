@@ -1,10 +1,7 @@
 ### 👋 Hi there, I'm Mike (a.k.a. Peruvian Idol 🇵🇪)
 
-- 🔭 I’m currently working on [Provi](https://provi.com)'s design system and CSS framework
-- 🔨 I built [11ty Recipes](https://11ty.recipes), [Dogs of Dev](https://dogsof.dev), and [Cool CSS](https://coolcss.dev)
-- 🌱 I’m currently learning JAMstack stuff and trying to get better at Illustrator
-- 👯 I’m looking to collaborate on interesting projects
-- 🤔 I’m looking for help with setting up CI stuff, npm package for our design system
+- 🔭 I’m currently the Principal Design Systems Engineer @ [Turquoise Health](https://turquoise.health/)
+- 🔨 I built [11ty Recipes](https://11ty.recipes) and [Dogs of Dev](https://dogsof.dev)
 - 💬 Ask me about CSS, design systems, movies, TV, video games
 - ⚡ Fun fact: I'm a graduate of Second City's conservatory and writing program
 - 📫 How to reach me: 👨🏻‍💻 [Website](https://mikeaparicio.com) / 🐦 [Twitter](https://twitter.com/peruvianidol) / 📷 [Instagram](https://instagram.com/peruvianidol) / 🛠 [CodePen](https://codepen.io/peruvianidol) / 🍿 [Letterboxd](https://letterboxd.com/peruvianidol)
