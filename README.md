@@ -8,9 +8,9 @@
 
 ### 🚨 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Our Dear Geno](https://mikeaparicio.com/posts/2023-03-26-our-dear-geno/)
 - [Fun with Retro Handhelds](https://mikeaparicio.com/posts/2023-02-21-fun-with-retro-handhelds/)
 - [Design System Diary &lpar;Part 1&rpar;](https://mikeaparicio.com/posts/2023-02-17-design-system-diary-part-1/)
 - [Imagine](https://mikeaparicio.com/posts/2023-01-15-imagine/)
 - [2022](https://mikeaparicio.com/posts/2023-01-01-2022/)
-- [Design System Advice](https://mikeaparicio.com/posts/2022-12-12-design-system-advice/)
 <!-- BLOG-POST-LIST:END -->
