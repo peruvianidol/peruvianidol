@@ -8,9 +8,9 @@
 
 ### 🚨 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why we&#39;re bad at CSS](https://mikeaparicio.com/posts/2023-05-22-why-were-bad-at-css/)
 - [Our Dear Geno](https://mikeaparicio.com/posts/2023-03-26-our-dear-geno/)
 - [Fun with Retro Handhelds](https://mikeaparicio.com/posts/2023-02-21-fun-with-retro-handhelds/)
 - [Design System Diary &lpar;Part 1&rpar;](https://mikeaparicio.com/posts/2023-02-17-design-system-diary-part-1/)
 - [Imagine](https://mikeaparicio.com/posts/2023-01-15-imagine/)
-- [2022](https://mikeaparicio.com/posts/2023-01-01-2022/)
 <!-- BLOG-POST-LIST:END -->
