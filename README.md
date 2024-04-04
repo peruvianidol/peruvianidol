@@ -8,9 +8,9 @@
 
 ### 🚨 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Theming Design Systems](https://mikeaparicio.com/posts/2024-04-03-theming-design-systems/)
 - [2023](https://mikeaparicio.com/posts/2024-01-01-2023/)
 - [Using Wordpress as a headless CMS for Eleventy](https://mikeaparicio.com/posts/2023-11-07-using-wordpress-as-a-headless-CMS-for-eleventy/)
 - [10 years of Extra Life](https://mikeaparicio.com/posts/2023-08-07-ten-years-of-extra-life/)
 - [Why we&#39;re bad at CSS](https://mikeaparicio.com/posts/2023-05-22-why-were-bad-at-css/)
-- [Our Dear Geno](https://mikeaparicio.com/posts/2023-03-26-our-dear-geno/)
 <!-- BLOG-POST-LIST:END -->
