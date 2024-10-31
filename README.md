@@ -8,9 +8,9 @@
 
 ### 🚨 Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Halloween](https://mikeaparicio.com/posts/2024-10-31-halloween/)
 - [Eldridge](https://mikeaparicio.com/posts/2024-05-07-eldridge/)
 - [Theming Design Systems](https://mikeaparicio.com/posts/2024-04-03-theming-design-systems/)
 - [2023](https://mikeaparicio.com/posts/2024-01-01-2023/)
 - [Using Wordpress as a headless CMS for Eleventy](https://mikeaparicio.com/posts/2023-11-07-using-wordpress-as-a-headless-CMS-for-eleventy/)
-- [10 years of Extra Life](https://mikeaparicio.com/posts/2023-08-07-ten-years-of-extra-life/)
 <!-- BLOG-POST-LIST:END -->
